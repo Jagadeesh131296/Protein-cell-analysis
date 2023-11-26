@@ -1,2 +1,4 @@
 # Protein-cell-analysis
-Analysis of the biological properties of proteins and the B-cell epitopes using Python.
+The analysis of the biological properties of proteins and the B-cell epitopes which is used as an important step in the development of diagnostic tests and vaccine candidates are discussed in the report. The datasets used for data analysis are Sp_epitopes and proteins. The Sp_epitopes dataset consists of data describing the B-cell epitopes and the proteins dataset contains information about proteins that are related to several pathogens. The aim of this report is to understand the data, perform pre-processing techniques and visualise the data to solve the classification problem.
+
+The exploratory data analysis, merging the two datasets, data pre-processing, feature engineering, modelling and data visualisations are done and the classification models are trained and fit by dividing the dataset into train and test. The model with the highest accuracy is used to find whether it belongs to the class 0 or class 1 based on the input data. Thus, data analysis is done and the best classification model can be used to determine the class.
